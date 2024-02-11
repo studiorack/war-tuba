@@ -1,0 +1,99 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keytrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_cc85
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: locc85
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: offset
+          value: '50000'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_volume_oncc101
+          value: '-24'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo03_volume_oncc118
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: hicc121
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr1_cnd.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: offset_random
+          value: '34626'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr2_cnd.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc91
+          value: '-100'
+      - type: element
+        name: opcode
+        attributes:
+          name: offset_random
+          value: '24614'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr3_cnd.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: pan_oncc91
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: offset_random
+          value: '84572'
+

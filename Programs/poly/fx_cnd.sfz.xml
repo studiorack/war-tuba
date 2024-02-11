@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="lokey" value="63" />
+	<opcode name="hikey" value="63" />
+	<opcode name="pitch_keycenter" value="63" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="lfo01_pitch_oncc111" value="0" />
+	<opcode name="lfo03_pitch_oncc117" value="0" />
+	<opcode name="lfo02_pitch_oncc117" value="0" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="amplitude_oncc1" value="100" />
+	<opcode name="volume" value="3" />
+	<opcode name="eq1_gain_oncc1" value="9" />
+	<opcode name="eq1_freq_oncc1" value="4000" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_freq" value="6000" />
+	<opcode name="eq2_gain_oncc1" value="2" />
+	<opcode name="eq3_freq" value="400" />
+	<opcode name="eq3_bw" value="2.5" />
+	<opcode name="eq3_gain_oncc1" value="-3" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\breath_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\breath_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\breath_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="61" />
+	<opcode name="hikey" value="61" />
+	<opcode name="pitch_keycenter" value="61" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="lfo01_pitch_oncc111" value="0" />
+	<opcode name="lfo03_pitch_oncc117" value="0" />
+	<opcode name="lfo02_pitch_oncc117" value="0" />
+	<opcode name="lfo01_eq1gain_oncc114" value="0" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.100" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr10_cnd.ogg" />
+	<opcode name="lorand" value="0.100" />
+	<opcode name="hirand" value="0.200" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.200" />
+	<opcode name="hirand" value="0.300" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.300" />
+	<opcode name="hirand" value="0.400" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr4_cnd.ogg" />
+	<opcode name="lorand" value="0.400" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr5_cnd.ogg" />
+	<opcode name="lorand" value="0.500" />
+	<opcode name="hirand" value="0.600" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr6_cnd.ogg" />
+	<opcode name="lorand" value="0.600" />
+	<opcode name="hirand" value="0.700" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr7_cnd.ogg" />
+	<opcode name="lorand" value="0.700" />
+	<opcode name="hirand" value="0.800" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr8_cnd.ogg" />
+	<opcode name="lorand" value="0.800" />
+	<opcode name="hirand" value="0.900" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_close_rr9_cnd.ogg" />
+	<opcode name="lorand" value="0.900" />
+</region>
+<group>
+	<opcode name="lokey" value="62" />
+	<opcode name="hikey" value="62" />
+	<opcode name="pitch_keycenter" value="62" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="lfo01_pitch_oncc111" value="0" />
+	<opcode name="lfo03_pitch_oncc117" value="0" />
+	<opcode name="lfo02_pitch_oncc117" value="0" />
+	<opcode name="lfo01_eq1gain_oncc114" value="0" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.100" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr10_cnd.ogg" />
+	<opcode name="lorand" value="0.100" />
+	<opcode name="hirand" value="0.200" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.200" />
+	<opcode name="hirand" value="0.300" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.300" />
+	<opcode name="hirand" value="0.400" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr4_cnd.ogg" />
+	<opcode name="lorand" value="0.400" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr5_cnd.ogg" />
+	<opcode name="lorand" value="0.500" />
+	<opcode name="hirand" value="0.600" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr6_cnd.ogg" />
+	<opcode name="lorand" value="0.600" />
+	<opcode name="hirand" value="0.700" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr7_cnd.ogg" />
+	<opcode name="lorand" value="0.700" />
+	<opcode name="hirand" value="0.800" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr8_cnd.ogg" />
+	<opcode name="lorand" value="0.800" />
+	<opcode name="hirand" value="0.900" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\valve_open_rr9_cnd.ogg" />
+	<opcode name="lorand" value="0.900" />
+</region>
+<group>
+	<opcode name="lokey" value="64" />
+	<opcode name="hikey" value="64" />
+	<opcode name="pitch_keycenter" value="64" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="amp_veltrack" value="0" />
+	<opcode name="amplitude_oncc1" value="100" />
+	<opcode name="volume" value="9" />
+	<opcode name="eq1_gain_oncc1" value="9" />
+	<opcode name="eq1_freq_oncc1" value="4000" />
+	<opcode name="eq2_bw" value="2" />
+	<opcode name="eq2_freq" value="6000" />
+	<opcode name="eq2_gain_oncc1" value="2" />
+	<opcode name="eq3_freq" value="400" />
+	<opcode name="eq3_bw" value="2.5" />
+	<opcode name="eq3_gain_oncc1" value="-3" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl1_rr1_cnd.ogg" />
+	<opcode name="hivel" value="25" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl1_rr2_cnd.ogg" />
+	<opcode name="hivel" value="25" />
+	<opcode name="lorand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl2_rr1_cnd.ogg" />
+	<opcode name="lovel" value="26" />
+	<opcode name="hivel" value="50" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl2_rr2_cnd.ogg" />
+	<opcode name="lovel" value="26" />
+	<opcode name="hivel" value="50" />
+	<opcode name="lorand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl3_rr1_cnd.ogg" />
+	<opcode name="lovel" value="51" />
+	<opcode name="hivel" value="75" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl3_rr2_cnd.ogg" />
+	<opcode name="lovel" value="51" />
+	<opcode name="hivel" value="75" />
+	<opcode name="lorand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl4_rr1_cnd.ogg" />
+	<opcode name="lovel" value="76" />
+	<opcode name="hivel" value="100" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl4_rr2_cnd.ogg" />
+	<opcode name="lovel" value="76" />
+	<opcode name="hivel" value="100" />
+	<opcode name="lorand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl5_rr1_cnd.ogg" />
+	<opcode name="lovel" value="101" />
+	<opcode name="hirand" value="0.500" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\woo_vl5_rr2_cnd.ogg" />
+	<opcode name="lovel" value="101" />
+	<opcode name="lorand" value="0.500" />
+</region>

@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="offset" value="50000" />
+	<opcode name="volume" value="6" />
+	<opcode name="amplitude_cc89" value="100" />
+	<opcode name="locc89" value="1" />
+	<opcode name="ampeg_decay_oncc93" value="0.125" />
+	<opcode name="ampeg_release_oncc93" value="1" />
+	<opcode name="hicc121" value="63" />
+	<opcode name="pan_oncc94" value="-100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_sus_cnd.ogg" />
+	<opcode name="lokey" value="24" />
+	<opcode name="hikey" value="29" />
+	<opcode name="offset_random" value="15713" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="tune_oncc92" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_sus_cnd.ogg" />
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="offset_random" value="15127" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="tune_oncc92" value="5" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_sus_cnd.ogg" />
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="offset_random" value="5069" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="tune_oncc92" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_sus_cnd.ogg" />
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="offset_random" value="2865" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="tune_oncc92" value="6" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_sus_cnd.ogg" />
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="offset_random" value="10865" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="tune_oncc92" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_sus_cnd.ogg" />
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="offset_random" value="8643" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="tune_oncc92" value="7" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="offset_random" value="13069" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_sus_cnd.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="offset_random" value="8471" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_sus_cnd.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="offset_random" value="10865" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_sus_cnd.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="offset_random" value="6285" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="offset_random" value="10873" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_sus_cnd.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="offset_random" value="9513" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_sus_cnd.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="offset_random" value="13571" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_sus_cnd.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="offset_random" value="15397" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_sus_cnd.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="offset_random" value="11265" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_sus_cnd.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="offset_random" value="15069" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_sus_cnd.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="offset_random" value="15309" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_sus_cnd.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="offset_random" value="10847" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_sus_cnd.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="60" />
+	<opcode name="offset_random" value="12845" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="tune_oncc92" value="11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_sus_cnd.ogg" />
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="offset_random" value="10687" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="tune_oncc92" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_sus_cnd.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="offset_random" value="10865" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="tune_oncc92" value="10" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_sus_cnd.ogg" />
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="offset_random" value="10953" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="tune_oncc92" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="offset_random" value="2471" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="tune_oncc92" value="9" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_sus_cnd.ogg" />
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="offset_random" value="5087" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="tune_oncc92" value="8" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_sus_cnd.ogg" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="offset_random" value="14913" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="tune_oncc92" value="8" />
+</region>
+<group>
+	<opcode name="offset" value="50000" />
+	<opcode name="volume" value="6" />
+	<opcode name="amplitude_cc89" value="100" />
+	<opcode name="locc89" value="1" />
+	<opcode name="ampeg_decay_oncc93" value="0.125" />
+	<opcode name="ampeg_release_oncc93" value="1" />
+	<opcode name="hicc121" value="63" />
+	<opcode name="pan_oncc94" value="100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g0_sus_cnd.ogg" />
+	<opcode name="lokey" value="24" />
+	<opcode name="hikey" value="29" />
+	<opcode name="offset_random" value="9073" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="tune_oncc92" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_sus_cnd.ogg" />
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="offset_random" value="17309" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="tune_oncc92" value="-6" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_sus_cnd.ogg" />
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="offset_random" value="15093" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="tune_oncc92" value="-6" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_sus_cnd.ogg" />
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="offset_random" value="11529" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="tune_oncc92" value="-7" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_sus_cnd.ogg" />
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="offset_random" value="15093" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="tune_oncc92" value="-7" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_sus_cnd.ogg" />
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="offset_random" value="17153" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_sus_cnd.ogg" />
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="offset_random" value="10693" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_sus_cnd.ogg" />
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="offset_random" value="11349" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="offset_random" value="17531" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_sus_cnd.ogg" />
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="offset_random" value="13087" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_sus_cnd.ogg" />
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="offset_random" value="19357" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_sus_cnd.ogg" />
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="offset_random" value="11529" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_sus_cnd.ogg" />
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="offset_random" value="7129" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_sus_cnd.ogg" />
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="offset_random" value="2847" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_sus_cnd.ogg" />
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="offset_random" value="9147" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_sus_cnd.ogg" />
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="offset_random" value="8713" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_sus_cnd.ogg" />
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="offset_random" value="15087" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_sus_cnd.ogg" />
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="60" />
+	<opcode name="offset_random" value="4691" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="tune_oncc92" value="-11" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_sus_cnd.ogg" />
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="offset_random" value="13597" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="tune_oncc92" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="offset_random" value="2865" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="tune_oncc92" value="-10" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_sus_cnd.ogg" />
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="offset_random" value="10865" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="tune_oncc92" value="-9" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_sus_cnd.ogg" />
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="offset_random" value="15067" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="tune_oncc92" value="-9" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_sus_cnd.ogg" />
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="offset_random" value="11295" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="tune_oncc92" value="-8" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_sus_cnd.ogg" />
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="offset_random" value="2649" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="tune_oncc92" value="-8" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_sus_cnd.ogg" />
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="offset_random" value="15087" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="tune_oncc92" value="-8" />
+</region>

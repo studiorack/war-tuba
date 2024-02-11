@@ -1,0 +1,2944 @@
+<?xml version="1.0"?>
+<group>
+	<opcode name="lokey" value="27" />
+	<opcode name="hikey" value="29" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="29" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="27" />
+	<opcode name="hikey" value="29" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="29" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="27" />
+	<opcode name="hikey" value="29" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="29" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="27" />
+	<opcode name="hikey" value="29" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="29" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="30" />
+	<opcode name="hikey" value="30" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="30" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="31" />
+	<opcode name="hikey" value="31" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="32" />
+	<opcode name="hikey" value="32" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="32" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="33" />
+	<opcode name="hikey" value="33" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="33" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="34" />
+	<opcode name="hikey" value="34" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="34" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="35" />
+	<opcode name="hikey" value="35" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="35" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b0_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="36" />
+	<opcode name="hikey" value="36" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="36" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="37" />
+	<opcode name="hikey" value="37" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="37" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="38" />
+	<opcode name="hikey" value="38" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="38" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="39" />
+	<opcode name="hikey" value="39" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="39" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="40" />
+	<opcode name="hikey" value="40" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="40" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="41" />
+	<opcode name="hikey" value="41" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="41" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="42" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="42" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="43" />
+	<opcode name="hikey" value="43" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="44" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="44" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\ab1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="45" />
+	<opcode name="hikey" value="45" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\a1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="46" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="46" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\bb1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="47" />
+	<opcode name="hikey" value="47" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\b1_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="48" />
+	<opcode name="hikey" value="48" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="48" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\c2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="49" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="49" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\db2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="50" />
+	<opcode name="hikey" value="50" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\d2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="51" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="51" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\eb2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="52" />
+	<opcode name="hikey" value="52" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\e2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="53" />
+	<opcode name="hikey" value="53" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="53" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\f2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="54" />
+	<opcode name="hikey" value="54" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="54" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\gb2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="hivel" value="32" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_32" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl1_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl1_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl1_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="lovel" value="33" />
+	<opcode name="hivel" value="64" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_64" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl2_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl2_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl2_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="lovel" value="65" />
+	<opcode name="hivel" value="96" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="amp_velcurve_96" value="1" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl3_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl3_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl3_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>
+<group>
+	<opcode name="lokey" value="55" />
+	<opcode name="hikey" value="60" />
+	<opcode name="lovel" value="97" />
+	<opcode name="sw_last" value="25" />
+	<opcode name="trigger" value="legato" />
+	<opcode name="group" value="1" />
+	<opcode name="off_by" value="1" />
+	<opcode name="pitch_keycenter" value="55" />
+	<opcode name="amplitude_oncc72" value="100" />
+	<opcode name="sw_label" value="Staccato" />
+	<opcode name="ampeg_attackcc70" value="0.100" />
+</group>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl4_rr1_cnd.ogg" />
+	<opcode name="hirand" value="0.333" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl4_rr2_cnd.ogg" />
+	<opcode name="lorand" value="0.333" />
+	<opcode name="hirand" value="0.667" />
+</region>
+<region>
+	<opcode name="sample" value="..\Samples\g2_s_vl4_rr3_cnd.ogg" />
+	<opcode name="lorand" value="0.667" />
+</region>

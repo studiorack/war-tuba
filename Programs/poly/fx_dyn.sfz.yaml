@@ -1,0 +1,958 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '300'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_keytrack
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc73
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_cc74
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc74
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_pitch_oncc111
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo03_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo02_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc1
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain_oncc1
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq_oncc1
+          value: '4000'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '6000'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain_oncc1
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_freq
+          value: '400'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_bw
+          value: '2.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_gain_oncc1
+          value: '-3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.333'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.333'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.667'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\breath_rr3_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.333'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '300'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_keytrack
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc73
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_cc74
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc74
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_pitch_oncc111
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo03_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo02_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_eq1gain_oncc114
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr10_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.100'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.200'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr3_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.400'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr4_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.400'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr5_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.600'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr6_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.600'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.700'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr7_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.700'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.800'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr8_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.800'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.900'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_close_rr9_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.900'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '300'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_keytrack
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc73
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_cc74
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc74
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_pitch_oncc111
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo03_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo02_pitch_oncc117
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: lfo01_eq1gain_oncc114
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.100'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr10_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.100'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.200'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr3_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.400'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr4_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.400'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr5_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.600'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr6_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.600'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.700'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr7_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.700'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.800'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr8_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.800'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.900'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\valve_open_rr9_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.900'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '300'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_keytrack
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc73
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff_cc74
+          value: '4800'
+      - type: element
+        name: opcode
+        attributes:
+          name: gain_cc74
+          value: '-6'
+      - type: element
+        name: opcode
+        attributes:
+          name: amp_veltrack
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: amplitude_oncc1
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_gain_oncc1
+          value: '9'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq1_freq_oncc1
+          value: '4000'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_bw
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_freq
+          value: '6000'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq2_gain_oncc1
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_freq
+          value: '400'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_bw
+          value: '2.5'
+      - type: element
+        name: opcode
+        attributes:
+          name: eq3_gain_oncc1
+          value: '-3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl1_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl1_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl2_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl2_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl3_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl3_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl4_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl4_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl5_rr1_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '101'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.500'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: ..\Samples\woo_vl5_rr2_dyn.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '101'
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.500'
+
